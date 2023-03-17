@@ -6,6 +6,8 @@ I'm Rebecca, and I am a newly minted full stack software engineer/ web developer
 
 You can check out my LinkedIn at www.linkedin.com/in/rebecca-croft-182b6593
 
+👩🏻‍💻 Currently working on: Connecting a public api to a springboot project
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rebeccaccroft" />
  
 
